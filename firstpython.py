@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import math
+import seaborn as sns
 import scipy.stats as stats
 
 # how to download a dataset?
